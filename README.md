@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Yingtong Liu's Personal Website
 
-You can use the [editor on GitHub](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website! This is my professional portfolio showcasing my research, publications, and experience in computer science, particularly in the areas of operating systems, security, and program analysis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About This Site
 
-### Markdown
+This website is built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). It features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Modern Design**: Clean, responsive layout optimized for all devices
+- **Professional Presentation**: Showcases research publications and professional experience
+- **Easy Navigation**: Organized sections for easy browsing
+- **Social Integration**: Links to professional profiles and social media
 
-```markdown
-Syntax highlighted code block
+## Sections
 
-# Header 1
-## Header 2
-### Header 3
+- **About Me**: Professional background and research interests
+- **Publications**: Research papers published in top-tier conferences
+- **Personal**: Personal interests including my cat Taco and favorite books
+- **Contact & Links**: Professional contact information and social media links
 
-- Bulleted
-- List
+## Research Areas
 
-1. Numbered
-2. List
+- Software Security
+- Program Analysis
+- Operating Systems
+- Blockchain Security
+- Automated Security Analysis
+- High-Performance Systems
 
-**Bold** and _Italic_ and `Code` text
+## Education
 
-[Link](url) and ![Image](src)
-```
+- **Ph.D. in Computer Science** - UC Irvine (Advisor: Prof. Ardalan Amiri Sani)
+- **B.Sc. in Computer Science** - Huazhong University of Science and Technology (HUST)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Current Position
 
-### Jekyll Themes
+Senior Software Engineer at [Certik](https://www.certik.com/), focusing on Web3 security and automated program analysis.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contact
 
-### Support or Contact
+- **Email**: liuyingtonghust@gmail.com
+- **LinkedIn**: [yingtong-liu-9ba23396](https://www.linkedin.com/in/yingtong-liu-9ba23396/)
+- **GitHub**: [Yingtong-Liu](https://github.com/Yingtong-Liu)
+- **Twitter**: [@Yingtong_L](https://twitter.com/Yingtong_L)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+*This website is automatically built and deployed using GitHub Pages. The source code is available in this repository.*

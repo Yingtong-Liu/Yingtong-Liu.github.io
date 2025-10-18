@@ -1,3 +1,27 @@
-theme: jekyll-theme-cayman
-title: "Yingtong Liu"
+theme: jekyll-theme-minimal
+title: "Yingtong Liu - Senior Software Engineer"
 name: "Yingtong Liu"
+description: "Senior Software Engineer at Certik | Ph.D. in Computer Science from UC Irvine | Research in Operating Systems and Security"
+url: "https://yingtong-liu.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Social links
+github_username: Yingtong-Liu
+linkedin_username: yingtong-liu-9ba23396
+twitter_username: Yingtong_L
+
+# Navigation
+navigation:
+  - title: "About"
+    url: "#about"
+  - title: "Publications"
+    url: "#publications"
+  - title: "Contact"
+    url: "#contact"
