@@ -5,8 +5,6 @@ title: Home
 
 # Yingtong Liu
 
-Passionate about leveraging automated program analysis techniques to enhance software security and reliability.
-
 ---
 
 ## About Me
@@ -41,6 +39,12 @@ I received a Ph.D. in Computer Science from [UC Irvine](https://www.ics.uci.edu/
 
 ---
 
+## Blog
+
+Visit my [blog](/blog/) for thoughts on software security, program analysis, operating systems, and LLM security.
+
+---
+
 ## Personal
 
 ### Favorite Books
@@ -52,8 +56,7 @@ I received a Ph.D. in Computer Science from [UC Irvine](https://www.ics.uci.edu/
 
 ## Contact
 
-**Email:** [liuyingtonghust@gmail.com](mailto:liuyingtonghust@gmail.com)  
-**CV:** [Download PDF](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Yingtong_cv.pdf)
+**Email:** [liuyingtonghust@gmail.com](mailto:liuyingtonghust@gmail.com)
 
 **Social Media:**
 - [Medium](https://medium.com/@liuyingtonghust)
