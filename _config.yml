@@ -1,7 +1,7 @@
-theme: jekyll-theme-cayman
-title: "Yingtong Liu - Senior Software Engineer"
+theme: jekyll-theme-minimal
+title: "Yingtong Liu - Software Engineer"
 name: "Yingtong Liu"
-description: "Senior Software Engineer at Certik | Ph.D. in Computer Science from UC Irvine | Research in Operating Systems and Security"
+description: "Ph.D. in Computer Science from UC Irvine | Research in Operating Systems and Security"
 url: "https://yingtong-liu.github.io"
 baseurl: ""
 

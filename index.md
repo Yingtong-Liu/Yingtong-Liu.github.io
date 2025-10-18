@@ -5,19 +5,15 @@ title: Home
 
 # Yingtong Liu
 
-**Senior Software Engineer at [Certik](https://www.certik.com/)**
-
 Passionate about leveraging automated program analysis techniques to enhance software security and reliability.
 
 ---
 
 ## About Me
 
-I am a Senior Software Engineer at [Certik](https://www.certik.com/), a leading company in Web3 security. With extensive experience in software security, program analysis, operating systems, and blockchain security, I am passionate about leveraging automated program analysis techniques to enhance the security and reliability of software systems.
+I am a Software Engineer at [Statsig](https://www.statsig.com). 
 
-My focus includes securing the critical implementations that power everyday technology, with a particular emphasis on operating systems. Additionally, I have a strong interest in designing and building high-performance, secure systems and infrastructures.
-
-I received a Ph.D. in Computer Science from [UC Irvine](https://www.ics.uci.edu/), advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). My research explores the intersection of operating systems and security. My work has been published in top-tier conferences, including ACM EuroSys, ACM MobiCom, and ACM ASPLOS. I have a B.Sc. degree from the Department of Computer Science of [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks.
+I received a Ph.D. in Computer Science from [UC Irvine](https://www.ics.uci.edu/), advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). My research explores the intersection of operating systems and security. I have a B.Sc. degree from the Department of Computer Science of [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks.
 
 ---
 
@@ -47,9 +43,6 @@ I received a Ph.D. in Computer Science from [UC Irvine](https://www.ics.uci.edu/
 
 ## Personal
 
-### My Cat
-[Taco](https://drive.google.com/drive/u/1/folders/1EOdUHqBvzgyymPQ0aS11SF9LzkQnP70I) was born on 09/17/2017. I adopted her from [Irvine Animal Care Center](https://www.cityofirvine.org/irvine-animal-care-center) when she was 3 months old. She is both shy and naughty.
-
 ### Favorite Books
 - [The Screwtape Letters](http://www.samizdat.qc.ca/arts/lit/PDFs/ScrewtapeLetters_CSL.pdf) by C.S. Lewis
 - [The Problem of Pain](http://www.samizdat.qc.ca/cosmos/philo/PDFs/ProblemofPain_CSL.pdf) by C.S. Lewis
@@ -66,4 +59,3 @@ I received a Ph.D. in Computer Science from [UC Irvine](https://www.ics.uci.edu/
 - [Medium](https://medium.com/@liuyingtonghust)
 - [LinkedIn](https://www.linkedin.com/in/yingtong-liu-9ba23396/)
 - [Twitter](https://twitter.com/Yingtong_L)
-- [GitHub](https://github.com/Yingtong-Liu)
