@@ -4,9 +4,6 @@ title: Home
 ---
 
 <div class="hero-section">
-  <div class="profile-container">
-    <img src="ying.jpeg" alt="Yingtong Liu" class="profile-image">
-  </div>
   <div class="hero-content">
     <h1 class="hero-title">Yingtong Liu</h1>
     <p class="hero-subtitle">Senior Software Engineer at <a href="https://www.certik.com/" target="_blank" rel="noopener">Certik</a></p>
@@ -111,29 +108,15 @@ title: Home
 
 <style>
 .hero-section {
-  display: flex;
-  align-items: center;
-  gap: 2rem;
+  text-align: center;
   margin-bottom: 3rem;
   padding: 2rem 0;
   border-bottom: 1px solid #e1e4e8;
 }
 
-.profile-container {
-  flex-shrink: 0;
-}
-
-.profile-image {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 4px solid #f6f8fa;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-
 .hero-content {
-  flex: 1;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .hero-title {
@@ -260,14 +243,12 @@ title: Home
 
 .book-list li {
   margin-bottom: 0.5rem;
-  padding-left: 1.5rem;
   position: relative;
 }
 
 .book-list li:before {
   content: "📚";
-  position: absolute;
-  left: 0;
+  margin-right: 0.5rem;
 }
 
 .contact-info {
@@ -308,16 +289,6 @@ title: Home
 }
 
 @media (max-width: 768px) {
-  .hero-section {
-    flex-direction: column;
-    text-align: center;
-  }
-  
-  .profile-image {
-    width: 150px;
-    height: 150px;
-  }
-  
   .hero-title {
     font-size: 2rem;
   }
